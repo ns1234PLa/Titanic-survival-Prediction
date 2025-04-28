@@ -7,8 +7,6 @@ This project leverages machine learning to predict the survival of passengers ab
 The dataset includes both numerical and categorical data, and the project demonstrates preprocessing steps such as handling missing values, encoding categorical features, and creating new features to enhance model performance. Different machine learning algorithms, including XGBoost, are used to build the final model.
 
 ## Dataset
-
-## Dataset
 Features:
 - **PassengerId**: Unique identifier
 - **Pclass**: Passenger class
